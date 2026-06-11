@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1000&auto=format&fit=crop" alt="Data Analytics Banner" width="100%" style="border-radius:10px;">
 
   <h1>🛒 Customer Shopping Behavior Analysis</h1>
   <p><b>An end-to-end data analytics pipeline transforming raw consumer data into actionable retail insights.</b></p>
